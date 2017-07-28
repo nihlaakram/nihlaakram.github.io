@@ -7,6 +7,7 @@ tags: [Github]
 
 Hello there! Welcome to my personal blog. 
 
-I will be posting all sorts of technical and non-tecchnical articles of my areas on interest here.
+I will be posting all sorts of technical articles on my areas of interest here.
 
 Happy reading! :)
+
